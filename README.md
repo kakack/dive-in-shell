@@ -4,7 +4,7 @@
 
 ## MindMap
 
-![](./Shell Programming.svg)
+![](https://raw.githubusercontent.com/kakack/dive-in-shell/main/Shell%20Programming.svg)
 
 ## Resource
 

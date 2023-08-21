@@ -6,6 +6,7 @@ ELEMENTS=${#ARRAY[@]}
 
 #echo each element in array
 # for loop
+echo "There are $ELEMENTS in ARRAY"
 for (( i=0;i<$ELEMENTS;i++)); do
 	echo ${ARRAY[${i}]}
 done
